@@ -36,7 +36,5 @@
 
 
 ;; Added by WangRen <iamwrm@gmail.com> on [2017-1-12 15:55]
-(setq org-agenda-files '("~/Documents/org-emacs/"))
-(add-to-list 'org-agenda-files (expand-file-name "~/Documents/org-emacs/notes"))
-;;(setq  org-agenda-text-search-extra-files '("~/Documents/org-emacs/"))
-;;(setq org-agenda-text-search-extra-files '("~/Documents/org-emacs/notes/"))
+(setq org-agenda-files '("~/Dropbox/emacs/org-emacs"))
+(add-to-list 'org-agenda-files (expand-file-name "~/Dropbox/emacs/org-emacs/notes"))
