@@ -38,3 +38,5 @@
 ;; Added by WangRen <iamwrm@gmail.com> on [2017-1-12 15:55]
 (setq org-agenda-files '("~/Dropbox/emacs/org-emacs"))
 (add-to-list 'org-agenda-files (expand-file-name "~/Dropbox/emacs/org-emacs/notes"))
+(add-to-list 'org-agenda-files (expand-file-name "~/Dropbox"))
+
